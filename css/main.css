@@ -20,3 +20,7 @@ html, body {
   background-size: cover;
   background-position: center;
 }
+
+.slider__item {
+  overflow:hidden;
+}
