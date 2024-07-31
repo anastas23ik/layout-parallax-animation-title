@@ -1,0 +1,14 @@
+:root{
+  --grid-width: 1140px;
+  --grid-gitter: .5em;
+}
+
+.container {
+  max-width: var(--grid-width);
+  margin: auto;
+ 
+}
+
+.row {
+  display: flex;
+}
